@@ -1,0 +1,2 @@
+tx_id,from_account,to_account,amount,currency
+t_test_1,12345,54321,100,SEK
